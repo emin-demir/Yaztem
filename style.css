@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&family=Roboto:wght@700&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    max-width: 1100px;
+    margin: auto;
+    background-color: #1d2027;
+    font-family: 'Mulish', sans-serif;
+    font-weight: bold;
+
+}
+.topData{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5rem;
+    
+}
+.header{
+    margin: 0;
+}
+
+h4{
+    color: #3cacfb;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+h1{
+    color:#FFFFFF;
+}
+
+.top-paragraf{
+    color:#6d6d74;
+    width: 350px;
+}
+.bottomData{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 255px;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: #303339;   
+    border-radius: 15px;
+}
+h2{
+    color: #FFFFFF;
+}
+.box-paragraf{
+    text-align: center;
+    font-size: large;
+    margin: 0;
+    color: #727279;
+}
+img{
+    width:75px;
+}
