@@ -1,3 +1,3 @@
 # Yaztem
 
-#View Linked Page : View Linked Page
+#View Linked Page : ![www.Yaztem.com](https://main.dmzddykw4kv7w.amplifyapp.com/)
